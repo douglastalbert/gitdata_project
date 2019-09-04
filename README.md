@@ -1,5 +1,4 @@
-# syapse-gitdata
-[![CircleCI](https://circleci.com/gh/syapse/syapse-gitdata.svg?style=svg&circle-token=b25cfe2c29eca92fcf3af1061cbbe090ce1a5b7d)](https://circleci.com/gh/syapse/syapse-gitdata)
+# gitdata_project
 [![Maintainability](https://api.codeclimate.com/v1/badges/c75e50ad060202af13f5/maintainability)](https://codeclimate.com/repos/5d0402b91e91402992008707/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c75e50ad060202af13f5/test_coverage)](https://codeclimate.com/repos/5d0402b91e91402992008707/test_coverage)
 
